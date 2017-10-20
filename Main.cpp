@@ -1,11 +1,11 @@
 #include<iostream>
-
+using namespace std; 
 int main(int argv, char* argc[]){
-	
-std::cout<< "rep project!\n ";
+char name[10];
+cout <<"enter your name";
+cin>>name;	
+cout<<"Hellow, " << name <<endl;
 system("pause");
-
-
 return 0;	
 }
 
