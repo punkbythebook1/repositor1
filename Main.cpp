@@ -3,7 +3,7 @@ using namespace std;
 int main(int argv, char* argc[]){
 char name[10];
 <<<<<<< HEAD
-std::cout<<"Hellow world! Have a nice day !\n";
+cout<<"Hellow world! Have a nice day !\n"; //change 
 =======
 cout <<"enter your name";
 cin>>name;	
