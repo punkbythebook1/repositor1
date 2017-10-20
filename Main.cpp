@@ -1,12 +1,9 @@
 #include<iostream>
-
+using namespace std; 
 int main(int argv, char* argc[]){
-	
-std::cout<< "rep project!\n ";
-std::cout<< "nice day for you!!";
-system("pause");
-
-
+char name[10];
+std::cout<<"Hellow world! Have a nice day !\n";
 return 0;	
 }
+
 
